@@ -1,2 +1,3 @@
-# my_first_repo
+# README
+## This is from the Git demo at RUG
 RUG demo
